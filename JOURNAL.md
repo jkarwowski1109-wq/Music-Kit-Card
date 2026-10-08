@@ -3,7 +3,7 @@ title: "Music Kit Card"
 github: "https://github.com/jkarwowski1109-wq/Music-Kit-Card"
 description: "A cheap and easy to build music toy (can be used to annoy people)\n"
 created_at: "2026-10-05"
-total_time: "7h 48m"
+total_time: "10h 48m"
 ---
 
 # October 5, 2026: Started the project and made the schematic + pcb
@@ -47,4 +47,5 @@ Timelapse: https://Iforgottoturniton.com
 
 Self explanatory, first time shipping so i needed to learn, thats why it taken me so long, did the renders, readme, BOM. 
 I will ship it tomorow because its 23 already and im tired.
+**Total time spent: 3h**
 
