@@ -20,7 +20,7 @@ Timelapse: https://lapse.hackclub.com/timelapse/iQ01BkjjBuKk
 
 ![](https://fabricate.hackclub-assets.com/fb2ee742b68eed95352140f71d52db062c5f0ea186c5921148658047ed90d71d/image.png)
 Did the 3d model, not with complicatons, thats why its so messed up. At least its usable (i think so), i chose a digital piano design with simple buttons and a curved body.
-
+I will try to improve it tommorow.
 Timelapse: https://lapse.hackclub.com/timelapse/H6LcsRfv8I6s
 
 **Total time spent: 2h 12m**
