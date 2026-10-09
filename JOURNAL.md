@@ -47,5 +47,7 @@ Timelapse: https://Iforgottoturniton.com
 
 Self explanatory, first time shipping so i needed to learn, thats why it taken me so long, did the renders, readme, BOM. 
 I will ship it tomorow because its 23 already and im tired.
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/a442ba61-2589-4606-81d0-eda0e4a7ea46" />
+
 **Total time spent: 3h**
 
